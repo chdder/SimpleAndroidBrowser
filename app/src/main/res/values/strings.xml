@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name"></string>
+
+    <!-- 定义一个数组资源 -->
+    <string-array name="tpis">
+        <item>http://www.baidu.com</item>
+        <item>http://www.bilibili.com</item>
+        <item>http://www.imooc.com/</item>
+        <item>http://elearning.szu.edu.cn/</item>
+        <item>http://www.szu.edu.cn/</item>
+    </string-array>
+    <string name="mychoose">你选择的下载方式:</string>
+    <string name="yes">确认</string>
+    <array name="items_irdc_dialog">
+        <item>单线程断点续传(建议选项)</item>
+        <item>多线程断点续传</item>
+    </array>
+
+</resources>
